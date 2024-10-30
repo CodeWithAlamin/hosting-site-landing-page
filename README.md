@@ -1,4 +1,4 @@
 ## Hosting site
 
-- Live Site URL: 
-https://codepapa360.github.io/hosting-site
+- Live Site URL:
+  https://hosting-site-landing-page-alamin.netlify.app
